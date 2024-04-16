@@ -1,0 +1,10 @@
+﻿  main.c
+D:\code_c\pointers on c\Project1\Project1\main.c(21,42): error C2065: “columns”: 未声明的标识符
+D:\code_c\pointers on c\Project1\Project1\main.c(21,42): warning C4047: “函数”:“int *”与“int”的间接级别不同
+D:\code_c\pointers on c\Project1\Project1\main.c(21,35): warning C4024: “read_column_numbers”: 形参和实参 1 的类型不同
+D:\code_c\pointers on c\Project1\Project1\main.c(23,9): warning C4013: “gets”未定义；假设外部返回 int
+D:\code_c\pointers on c\Project1\Project1\main.c(23,28): warning C4047: “!=”:“int”与“void *”的间接级别不同
+D:\code_c\pointers on c\Project1\Project1\main.c(25,10): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+D:\code_c\pointers on c\Project1\Project1\main.c(25,10): message : 占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+D:\code_c\pointers on c\Project1\Project1\main.c(25,10): message : 缺失的可变参数 1 为格式字符串“%s”所需
+D:\code_c\pointers on c\Project1\Project1\main.c(59,8): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
